@@ -1,11 +1,15 @@
 ## ツール
 
 adbから任意のActivityを起動したい
+
 https://qiita.com/kikuchy/items/39d1901c7007e37bfe02
+
 →アプリのデバッグに便利そう
 
 adbを15秒でインストールするやつ
+
 https://barihack.net/adb-15sec-install/
+
 →色々よしなにやってくれるから便利
 
 ## スクリプト
